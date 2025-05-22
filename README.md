@@ -1,4 +1,4 @@
-# 01-Individual
+# 01-Individual Repo
 Template for individual student repo
 
 <img src="./images/thisisme.png" width="20%">
@@ -11,7 +11,6 @@ Template for individual student repo
 
 ## Team links
 - [Team Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link)
-- [Team deliverables](/coursedocs/team-deliverables.md)
 
 ## Course links
 - [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2025/ec463/home)
