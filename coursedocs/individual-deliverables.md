@@ -2,7 +2,7 @@
 (Links to specific documents or locations on google drive if not stored in a folder here.) Subject to revision
 
 ## Draft pre-class deliverables
-- Skill inventory (skill areas also enumerated on projects) plus resume [osama]
+- Skill inventory 
 - Project selection
 - Thesis confirmation
 
@@ -11,7 +11,7 @@
 - Individual environment setup (Google, GitHub)
 - Individual Logbook entries (enumerate dates)
 - Unit work plan with mandatory elements -- requirements, units, unit test plans design tradeoffs
-- Unit testing scripts demonstration & test. (coupled with requirements/specs from earlier)
+- Unit testing scripts demonstration & test
 
 
 ## Spring semester deliverables
