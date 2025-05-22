@@ -1,16 +1,13 @@
 # 01-Individual
 Template for individual student repo
 
-<p align="center">
-<img src="./images/thisisme.png" width="20%">
-</p>
-<p align="center">
+<p><img src="./images/thisisme.png" width="20%">
 This is me
 </p>
 
 ## Individual links
 - [Log book TBD]()
-- [Individual deliverables](
+- [Individual deliverables](./coursedocs/individual-deliverables.md)
 - [Individual Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link)
 
 ## Team links
