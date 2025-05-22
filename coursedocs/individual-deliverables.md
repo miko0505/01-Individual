@@ -1,24 +1,20 @@
-# 02-Team
-Template for team repo
+# Individual Deliverables
+(Links to specific documents or locations on google drive if not stored in a folder here.) Subject to revision
 
-<p align="center">
-<img src="./images/thisismyteam.png" width="70%">
-</p>
-<p align="center">
-This is my team
-</p>
+## Draft pre-class deliverables
+- Skill inventory (skill areas also enumerated on projects) plus resume [osama]
+- Project selection
+- Thesis confirmation
 
-## Team links
-- [Team Google Drive](./coursedocs/
-- [Team deliverables](/coursedocs/team-deliverables.md)
-
-## Course links
-- [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2024/ec444)
-- [Blackboard](http://learn.bu.edu/)
+## Draft fall semester deliverables
+- Individual photo 
+- Individual environment setup (Google, GitHub)
+- Individual Logbook entries (enumerate dates)
+- Unit work plan with mandatory elements -- requirements, units, unit test plans design tradeoffs
+- Unit testing scripts demonstration & test. (coupled with requirements/specs from earlier)
 
 
-## Optional features links
-- Team Jira
-- Team Confluence
-- Something else
+## Spring semester deliverables
+- Individual Logbook entries (enumerate dates)
+- Peer review
 
