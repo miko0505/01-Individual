@@ -5,12 +5,11 @@ Template for individual student repo
 <p> This is me </p>
 
 ## Individual links
-- [Log book TBD]()
-- [Individual deliverables](./coursedocs/individual-deliverables.md)
-- [Individual Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link)
+- [Log book]()
+- [Individual Google Drive]()
 
 ## Team links
-- [Team Google Drive](https://drive.google.com/drive/folders/12ABYoAHQtrtgIl2uLQmc7KXFYVf1IL_T?usp=share_link)
+- [Team Google Drive]()
 
 ## Course links
 - [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2025/ec463/home)
