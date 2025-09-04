@@ -5,8 +5,8 @@ Template for individual student repo
 <p> This is me </p>
 
 ## Individual links
-- [Log book]()
-- [Individual Google Drive]()
+- [Log book](https://docs.google.com/document/d/1OJYutbN_MY-syObeb2vI8-ofAb3iw49PD-LApHr5WCU/edit?usp=drive_link)
+- [Individual Google Drive](https://drive.google.com/drive/folders/1okUUva7O-ZyjDc2IDMS07VNr4SvjydzP?usp=drive_link)
 
 ## Team links
 - [Team Google Drive]()
