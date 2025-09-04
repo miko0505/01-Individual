@@ -9,7 +9,7 @@ Template for individual student repo
 - [Individual Google Drive](https://drive.google.com/drive/folders/1okUUva7O-ZyjDc2IDMS07VNr4SvjydzP?usp=drive_link)
 
 ## Team links
-- [Team Google Drive]()
+- [Team Google Drive](https://drive.google.com/drive/folders/1DOMSv3BQg_NJUjcH5m1vT1EV-Kz_XhOu?usp=drive_link)
 
 ## Course links
 - [ECE Senior Design Piazza Site](https://piazza.com/bu/fall2025/ec463/home)
